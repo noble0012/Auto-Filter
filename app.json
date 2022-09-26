@@ -17,7 +17,7 @@
       "inline"
     ],
     "website": "https://github.com/Aadhi000/Ajax",
-    "repository": "https://github.com/Aadhi000/Ajax",
+    "repository": "https://github.com/noble0012/Auto-Filter",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
